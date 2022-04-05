@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "noUncheckedIndexedAccess": true,
+        "lib": [ "esnext" ],
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+}
